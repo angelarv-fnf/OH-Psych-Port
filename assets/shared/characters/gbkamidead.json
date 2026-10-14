@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				241
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "gbkami dies"
+		},
+		{
+			"offsets": [
+				37,
+				241
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "gbkami deadloop"
+		},
+		{
+			"offsets": [
+				37,
+				241
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "gbkami deadconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gbkami",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "gbkami",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-10,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

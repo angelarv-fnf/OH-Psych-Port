@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tv.png"><SubTexture name="tv idle0000" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0001" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0002" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0003" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0004" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0005" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0006" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0007" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0008" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0009" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0010" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0011" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0012" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0013" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0014" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0015" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0016" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0017" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0018" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0019" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0020" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0021" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0022" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0023" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0024" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0025" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0026" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0027" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0028" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0029" x="0" y="720" width="905" height="717" frameX="0" frameY="-3" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0030" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0031" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0032" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0033" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0034" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0035" x="0" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0036" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0037" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0038" x="905" y="0" width="905" height="720" frameX="0" frameY="0" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0039" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0040" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+<SubTexture name="tv idle0041" x="905" y="720" width="905" height="710" frameX="0" frameY="-10" frameWidth="920" frameHeight="720" />
+</TextureAtlas>

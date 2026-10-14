@@ -1,0 +1,23 @@
+
+Psych Engine loads health icons as:  images/icons/icon-<name>.png
+
+Your icons.zip / images.zip has names WITHOUT the "icon-" prefix.
+Rename (or copy) them like this:
+
+  icons/bb.png         →  icons/icon-bb.png
+  icons/gbkami.png     →  icons/icon-gbkami.png
+  icons/gbmax.png      →  icons/icon-gbmax.png
+  icons/limerence.png  →  icons/icon-limerence.png
+  icons/maxangry.png   →  icons/icon-maxangry.png
+  icons/maxseven.png   →  icons/icon-maxseven.png
+  icons/redboy.png     →  icons/icon-redboy.png
+  icons/gg.png         →  icons/icon-gg.png   (if you add one; currently gg uses icon gg)
+
+Already prefixed (leave as-is):
+  icon-bfleon, icon-choco, icon-giltain, icon-jose, icon-pursuer,
+  icon-salvador, icon-sharlie, icon-sorrow, icon-vhsgf, icon-xamangry, icon-xamhappy
+
+Windows (PowerShell) quick rename inside icons folder:
+  Get-ChildItem -Filter "*.png" | Where-Object { $_.Name -notlike "icon-*" } | ForEach-Object {
+    Rename-Item $_.FullName -NewName ("icon-" + $_.Name)
+  }

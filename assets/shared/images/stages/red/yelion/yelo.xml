@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yelo.png"><SubTexture name="yelo idle0000" x="0" y="166" width="154" height="161" frameX="-22" frameY="-16" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0001" x="0" y="166" width="154" height="161" frameX="-22" frameY="-16" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0002" x="0" y="166" width="154" height="161" frameX="-22" frameY="-16" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0003" x="154" y="166" width="157" height="161" frameX="-18" frameY="-16" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0004" x="154" y="166" width="157" height="161" frameX="-18" frameY="-16" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0005" x="154" y="166" width="157" height="161" frameX="-18" frameY="-16" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0006" x="306" y="0" width="155" height="165" frameX="-20" frameY="-12" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0007" x="306" y="0" width="155" height="165" frameX="-20" frameY="-12" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0008" x="306" y="0" width="155" height="165" frameX="-20" frameY="-12" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0009" x="0" y="0" width="153" height="166" frameX="-23" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0010" x="0" y="0" width="153" height="166" frameX="-23" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0011" x="0" y="0" width="153" height="166" frameX="-23" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0012" x="153" y="0" width="153" height="166" frameX="-25" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0013" x="153" y="0" width="153" height="166" frameX="-25" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0014" x="153" y="0" width="153" height="166" frameX="-25" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0015" x="153" y="0" width="153" height="166" frameX="-25" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0016" x="153" y="0" width="153" height="166" frameX="-25" frameY="-11" frameWidth="205" frameHeight="185" />
+<SubTexture name="yelo idle0017" x="153" y="0" width="153" height="166" frameX="-25" frameY="-11" frameWidth="205" frameHeight="185" />
+</TextureAtlas>

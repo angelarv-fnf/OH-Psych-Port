@@ -1,0 +1,172 @@
+{
+	"animations": [
+		{
+			"anim": "idle",
+			"name": "minimax idle",
+			"fps": 25,
+			"loop": false,
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"offsets": [
+				-5.0,
+				0.0
+			]
+		},
+		{
+			"anim": "singUP",
+			"name": "minimax up",
+			"fps": 20,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				4.0,
+				2.0
+			]
+		},
+		{
+			"anim": "singLEFT",
+			"name": "minimax left",
+			"fps": 20,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				5.0,
+				1.0
+			]
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "minimax right",
+			"fps": 20,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-15.0,
+				-1.0
+			]
+		},
+		{
+			"anim": "singDOWN",
+			"name": "minimax down",
+			"fps": 20,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-20.0,
+				4.0
+			]
+		},
+		{
+			"anim": "change",
+			"name": "minimax change",
+			"fps": 40,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-34.0,
+				188.0
+			]
+		},
+		{
+			"anim": "idle-alt",
+			"name": "skalushie idle",
+			"fps": 30,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singUP-alt",
+			"name": "skalushie up",
+			"fps": 30,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singDOWN-alt",
+			"name": "skalushie down",
+			"fps": 30,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singLEFT-alt",
+			"name": "skalushie left",
+			"fps": 25,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singRIGHT-alt",
+			"name": "skalushie right",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "change-alt",
+			"name": "skalushie change",
+			"fps": 40,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-17.0,
+				32.0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minimax/1",
+	"position": [
+		0.0,
+		220.0
+	],
+	"healthicon": "redboy",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		5,
+		5
+	],
+	"camera_position": [
+		-120.0,
+		80.0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menusorrow.png"><SubTexture name="menusorrow idle0000" x="0" y="0" width="1186" height="720" frameX="-15" frameY="0" frameWidth="1214" frameHeight="720" />
+<SubTexture name="menusorrow idle0001" x="0" y="0" width="1186" height="720" frameX="-15" frameY="0" frameWidth="1214" frameHeight="720" />
+<SubTexture name="menusorrow idle0002" x="1186" y="0" width="1168" height="720" frameX="-21" frameY="0" frameWidth="1214" frameHeight="720" />
+<SubTexture name="menusorrow idle0003" x="1186" y="0" width="1168" height="720" frameX="-21" frameY="0" frameWidth="1214" frameHeight="720" />
+<SubTexture name="menusorrow idle0004" x="0" y="720" width="1157" height="720" frameX="-22" frameY="0" frameWidth="1214" frameHeight="720" />
+<SubTexture name="menusorrow idle0005" x="0" y="720" width="1157" height="720" frameX="-22" frameY="0" frameWidth="1214" frameHeight="720" />
+<SubTexture name="menusorrow idle0006" x="1186" y="0" width="1168" height="720" frameX="-21" frameY="0" frameWidth="1214" frameHeight="720" />
+<SubTexture name="menusorrow idle0007" x="1186" y="0" width="1168" height="720" frameX="-21" frameY="0" frameWidth="1214" frameHeight="720" />
+</TextureAtlas>

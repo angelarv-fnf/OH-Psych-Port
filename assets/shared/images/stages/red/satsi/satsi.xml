@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="satsi.png"><SubTexture name="satsi idle0000" x="1620" y="890" width="319" height="442" frameX="-32" frameY="-13" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0001" x="1620" y="890" width="319" height="442" frameX="-32" frameY="-13" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0002" x="670" y="1363" width="338" height="442" frameX="-18" frameY="-13" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0003" x="0" y="1363" width="338" height="444" frameX="-18" frameY="-11" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0004" x="338" y="1363" width="332" height="444" frameX="-28" frameY="-11" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0005" x="338" y="1363" width="332" height="444" frameX="-28" frameY="-11" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0006" x="1008" y="910" width="312" height="446" frameX="-38" frameY="-9" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0007" x="1008" y="910" width="312" height="446" frameX="-38" frameY="-9" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0008" x="1620" y="0" width="319" height="446" frameX="-32" frameY="-9" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0009" x="1301" y="453" width="319" height="450" frameX="-32" frameY="-5" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0010" x="338" y="910" width="338" height="450" frameX="-18" frameY="-5" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0011" x="338" y="910" width="338" height="450" frameX="-18" frameY="-5" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0012" x="969" y="0" width="332" height="453" frameX="-28" frameY="-2" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0013" x="969" y="0" width="332" height="453" frameX="-28" frameY="-2" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0014" x="969" y="453" width="312" height="453" frameX="-38" frameY="-2" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0015" x="0" y="0" width="312" height="455" frameX="-38" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0016" x="312" y="0" width="319" height="455" frameX="-32" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0017" x="312" y="0" width="319" height="455" frameX="-32" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0018" x="631" y="0" width="338" height="455" frameX="-18" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0019" x="631" y="0" width="338" height="455" frameX="-18" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0020" x="0" y="455" width="332" height="455" frameX="-28" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0021" x="332" y="455" width="332" height="455" frameX="-28" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0022" x="0" y="0" width="312" height="455" frameX="-38" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0023" x="0" y="0" width="312" height="455" frameX="-38" frameY="0" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0024" x="1301" y="0" width="319" height="453" frameX="-32" frameY="-2" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0025" x="1301" y="0" width="319" height="453" frameX="-32" frameY="-2" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0026" x="0" y="910" width="338" height="453" frameX="-18" frameY="-2" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0027" x="338" y="910" width="338" height="450" frameX="-18" frameY="-5" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0028" x="676" y="910" width="332" height="450" frameX="-28" frameY="-5" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0029" x="676" y="910" width="332" height="450" frameX="-28" frameY="-5" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0030" x="1008" y="910" width="312" height="446" frameX="-38" frameY="-9" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0031" x="1008" y="910" width="312" height="446" frameX="-38" frameY="-9" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0032" x="1620" y="0" width="319" height="446" frameX="-32" frameY="-9" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0033" x="1620" y="446" width="319" height="444" frameX="-32" frameY="-11" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0034" x="0" y="1363" width="338" height="444" frameX="-18" frameY="-11" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0035" x="0" y="1363" width="338" height="444" frameX="-18" frameY="-11" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0036" x="1008" y="1363" width="332" height="442" frameX="-28" frameY="-13" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0037" x="1008" y="1363" width="332" height="442" frameX="-28" frameY="-13" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0038" x="1340" y="1363" width="312" height="442" frameX="-38" frameY="-13" frameWidth="376" frameHeight="455" />
+<SubTexture name="satsi idle0039" x="1340" y="1363" width="312" height="442" frameX="-38" frameY="-13" frameWidth="376" frameHeight="455" />
+</TextureAtlas>

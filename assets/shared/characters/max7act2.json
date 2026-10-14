@@ -1,0 +1,226 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				85,
+				112
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "max7act2 idle"
+		},
+		{
+			"offsets": [
+				92,
+				112
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "max7act2 left"
+		},
+		{
+			"offsets": [
+				84,
+				118
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUP",
+			"loop": false,
+			"name": "max7act2 up"
+		},
+		{
+			"offsets": [
+				79,
+				114
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "max7act2 right"
+		},
+		{
+			"offsets": [
+				83,
+				112
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "max7act2 down"
+		},
+		{
+			"offsets": [
+				79,
+				116
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 20,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "max7act2 right"
+		},
+		{
+			"offsets": [
+				83,
+				112
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "max7act2 down"
+		},
+		{
+			"offsets": [
+				92,
+				112
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "max7act2 left"
+		},
+		{
+			"offsets": [
+				84,
+				118
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "max7act2 up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/max7act2",
+	"position": [
+		-180,
+		170
+	],
+	"healthicon": "maxseven",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		76,
+		89
+	],
+	"camera_position": [
+		-20,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

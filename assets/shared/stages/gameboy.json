@@ -1,0 +1,32 @@
+{
+	"directory": "gameboy",
+	"defaultZoom": 0.9,
+	"isPixelStage": true,
+	"stageUI": "pixel",
+	"boyfriend": [
+		770,
+		100
+	],
+	"girlfriend": [
+		371,
+		-3
+	],
+	"opponent": [
+		100,
+		100
+	],
+	"hide_girlfriend": true,
+	"camera_boyfriend": [
+		50,
+		0
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"camera_speed": 1
+}

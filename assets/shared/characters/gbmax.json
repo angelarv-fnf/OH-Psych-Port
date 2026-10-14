@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "gbmax idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "gbmax left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "gbmax down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gbmax up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gbmax right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gbmax",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "gbmax",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		255,
+		195
+	],
+	"camera_position": [
+		-100,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

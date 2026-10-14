@@ -1,0 +1,2 @@
+-- Courage bar was disabled in the original (if(true) return)
+-- Left as empty stub so the file exists if referenced

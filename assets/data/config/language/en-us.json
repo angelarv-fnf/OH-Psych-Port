@@ -1,0 +1,53 @@
+{
+  "menus": {
+    "Title": {
+      "introTexts": [
+        "Original Game by\n*FunkinCrew*",
+        "Psych Engine by\n*ShadowMario*",
+        "Mod created by\n*Sexy Team*",
+        "Directed by\n*EstudiOmega*",
+        "this",
+        "is"
+      ],
+      "enterText": "Press ENTER to Start"
+    },
+    "MainMenu": {
+      "optionShit": ["story mode", "freeplay", "options", "credits", "shop", "extras"],
+      "wipSub": [
+        "This is on Development\nyou fool!",
+        "The shop is closed\nstranger!",
+        "You must complete\nthe following\nto unlock this:|Complete the song RED"
+      ]
+    },
+    "Options": {
+      "optionShit": ["language", "Ex. Mode", "other options"],
+      "exMode": {
+        "msg": [
+          "Warning",
+          "This option allows you to see explicit content (like *GORE*, *VIOLENCE*, etc) that are not suitable for everyone.\n",
+          "However, this doesn't disable scary things like Jumpscares."
+        ]
+      }
+    },
+    "Extras": {
+      "optionShit": ["achievements", "statistics", "gallery", "otherpedia"],
+      "otherpedia": {"eats": "Eats", "loves": "Loves", "hates": "Hates", "origin": "Origin"},
+      "stats": {"accu": "Accuracy", "combo": "Score", "misses": "Misses"}
+    },
+    "Freeplay": {
+      "diffDesc": {"normal": "Normal difficulty", "hard": "Hard difficulty"}
+    },
+    "Warning": {
+      "msg": "This mod contains explicit / gore content.\nPress ENTER to enable Explicit Mode\nor ESCAPE to keep it disabled."
+    },
+    "Pause": {
+      "optionShit": ["Resume", "Restart", "Options", "Exit"]
+    }
+  },
+  "subtitles": {
+    "MoD_gameover": {
+      "gore": ["..."],
+      "nogore": ["Hello...", "This is a game over."]
+    }
+  }
+}

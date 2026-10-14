@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="car_family.png"><SubTexture name="car_family idle0000" x="291" y="0" width="295" height="193" frameX="-11" frameY="-14" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0001" x="291" y="0" width="295" height="193" frameX="-11" frameY="-14" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0002" x="291" y="0" width="295" height="193" frameX="-11" frameY="-14" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0003" x="291" y="0" width="295" height="193" frameX="-11" frameY="-14" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0004" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0005" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0006" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0007" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0008" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0009" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0010" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0011" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0012" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0013" x="0" y="0" width="291" height="194" frameX="-13" frameY="-13" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0014" x="0" y="194" width="293" height="184" frameX="-12" frameY="-23" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0015" x="0" y="194" width="293" height="184" frameX="-12" frameY="-23" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0016" x="0" y="194" width="293" height="184" frameX="-12" frameY="-23" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0017" x="0" y="194" width="293" height="184" frameX="-12" frameY="-23" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0018" x="0" y="194" width="293" height="184" frameX="-12" frameY="-23" frameWidth="316" frameHeight="208" />
+<SubTexture name="car_family idle0019" x="291" y="0" width="295" height="193" frameX="-11" frameY="-14" frameWidth="316" frameHeight="208" />
+</TextureAtlas>

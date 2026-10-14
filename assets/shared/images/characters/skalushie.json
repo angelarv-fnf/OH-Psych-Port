@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				2
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "minimax up"
+		},
+		{
+			"offsets": [
+				-43,
+				-97
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "skalushie idle"
+		},
+		{
+			"offsets": [
+				-43,
+				-97
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "skalushie left"
+		},
+		{
+			"offsets": [
+				-43,
+				-97
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "skalushie down"
+		},
+		{
+			"offsets": [
+				-43,
+				-97
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "skalushie up"
+		},
+		{
+			"offsets": [
+				-43,
+				-97
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "skalushie right"
+		},
+		{
+			"offsets": [
+				-43,
+				-97
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "skalushie down"
+		},
+		{
+			"offsets": [
+				-32,
+				40
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "scared",
+			"loop": false,
+			"name": "skalushie change"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skalushie",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "skalushie",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		100,
+		100
+	],
+	"camera_position": [
+		-120,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

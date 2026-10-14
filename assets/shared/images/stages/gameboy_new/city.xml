@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="city.png"><SubTexture name="city idle0000" x="0" y="0" width="573" height="476" frameX="-27" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0001" x="0" y="0" width="573" height="476" frameX="-27" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0002" x="0" y="0" width="573" height="476" frameX="-27" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0003" x="0" y="0" width="573" height="476" frameX="-27" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0004" x="573" y="0" width="592" height="476" frameX="-8" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0005" x="573" y="0" width="592" height="476" frameX="-8" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0006" x="573" y="0" width="592" height="476" frameX="-8" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0007" x="573" y="0" width="592" height="476" frameX="-8" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0008" x="0" y="476" width="584" height="476" frameX="-16" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0009" x="0" y="476" width="584" height="476" frameX="-16" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0010" x="0" y="476" width="584" height="476" frameX="-16" frameY="0" frameWidth="615" frameHeight="494" />
+<SubTexture name="city idle0011" x="0" y="476" width="584" height="476" frameX="-16" frameY="0" frameWidth="615" frameHeight="494" />
+</TextureAtlas>

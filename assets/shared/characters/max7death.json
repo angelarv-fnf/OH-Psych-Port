@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"anim": "firstDeath",
+			"name": "max7death dies",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "deathLoop",
+			"name": "max7death deadloop",
+			"fps": 24,
+			"loop": true,
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "deathConfirm",
+			"name": "max7death deadconfirm",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/max7death",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "maxseven",
+	"flip_x": true,
+	"healthbar_colors": [
+		169,
+		36,
+		49
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.0
+}

@@ -1,0 +1,53 @@
+{
+  "menus": {
+    "Title": {
+      "introTexts": [
+        "Juego original por\n*FunkinCrew*",
+        "Psych Engine por\n*ShadowMario*",
+        "Mod creado por\n*Sexy Team*",
+        "Dirigido por\n*EstudiOmega*",
+        "esto",
+        "es"
+      ],
+      "enterText": "Presiona ENTER para comenzar"
+    },
+    "MainMenu": {
+      "optionShit": ["modo historia", "freeplay", "opciones", "créditos", "tienda", "extras"],
+      "wipSub": [
+        "¡Esto está en desarrollo\ntonto!",
+        "¡La tienda está cerrada\nforastero!",
+        "Debes completar\nlo siguiente\npara desbloquear:|Completa la canción RED"
+      ]
+    },
+    "Options": {
+      "optionShit": ["idioma", "Modo Exp.", "otras opciones"],
+      "exMode": {
+        "msg": [
+          "Advertencia",
+          "Esta opción permite ver contenido explícito (como *GORE*, *VIOLENCIA*, etc) que no es adecuado para todos.\n",
+          "Sin embargo, esto no desactiva cosas de miedo como los Jumpscares."
+        ]
+      }
+    },
+    "Extras": {
+      "optionShit": ["logros", "estadísticas", "galería", "otherpedia"],
+      "otherpedia": {"eats": "Come", "loves": "Ama", "hates": "Odia", "origin": "Origen"},
+      "stats": {"accu": "Precisión", "combo": "Puntuación", "misses": "Fallos"}
+    },
+    "Freeplay": {
+      "diffDesc": {"normal": "Dificultad normal", "hard": "Dificultad difícil"}
+    },
+    "Warning": {
+      "msg": "Este mod contiene contenido explícito / gore.\nPresiona ENTER para activar el Modo Explícito\no ESCAPE para dejarlo desactivado."
+    },
+    "Pause": {
+      "optionShit": ["Continuar", "Reiniciar", "Opciones", "Salir"]
+    }
+  },
+  "subtitles": {
+    "MoD_gameover": {
+      "gore": ["..."],
+      "nogore": ["Hola...", "Esto es un game over."]
+    }
+  }
+}

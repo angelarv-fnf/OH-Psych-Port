@@ -1,0 +1,272 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				64
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "maxseven left"
+		},
+		{
+			"offsets": [
+				85,
+				110
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "maxseven idle"
+		},
+		{
+			"offsets": [
+				90,
+				59
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "maxseven down"
+		},
+		{
+			"offsets": [
+				84,
+				127
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "maxseven up"
+		},
+		{
+			"offsets": [
+				92,
+				103
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "maxseven right"
+		},
+		{
+			"offsets": [
+				55,
+				64
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "maxseven left miss"
+		},
+		{
+			"offsets": [
+				90,
+				59
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "maxseven down miss"
+		},
+		{
+			"offsets": [
+				84,
+				127
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "maxseven up miss"
+		},
+		{
+			"offsets": [
+				92,
+				103
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "maxseven right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maxseven",
+	"position": [
+		-140,
+		-50
+	],
+	"healthicon": "maxseven",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		76,
+		89
+	],
+	"camera_position": [
+		-20,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

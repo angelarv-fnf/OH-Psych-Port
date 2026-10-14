@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gg.png"><SubTexture name="gg danceleft0000" x="0" y="635" width="240" height="309" frameX="-35" frameY="-23" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0001" x="744" y="0" width="239" height="312" frameX="-41" frameY="-25" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0002" x="744" y="0" width="239" height="312" frameX="-41" frameY="-25" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0003" x="744" y="312" width="234" height="307" frameX="-48" frameY="-29" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0004" x="240" y="635" width="251" height="307" frameX="-31" frameY="-29" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0005" x="983" y="0" width="254" height="302" frameX="-31" frameY="-32" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0006" x="983" y="302" width="254" height="302" frameX="-31" frameY="-32" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0007" x="983" y="302" width="254" height="302" frameX="-31" frameY="-32" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0008" x="983" y="0" width="254" height="302" frameX="-31" frameY="-32" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0009" x="491" y="635" width="251" height="307" frameX="-31" frameY="-29" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0010" x="744" y="312" width="234" height="307" frameX="-48" frameY="-29" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0011" x="744" y="312" width="234" height="307" frameX="-48" frameY="-29" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0012" x="744" y="0" width="239" height="312" frameX="-41" frameY="-25" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg danceleft0013" x="744" y="0" width="239" height="312" frameX="-41" frameY="-25" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0000" x="0" y="635" width="240" height="309" frameX="-35" frameY="-23" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0001" x="492" y="318" width="246" height="316" frameX="-25" frameY="-20" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0002" x="492" y="318" width="246" height="316" frameX="-25" frameY="-20" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0003" x="0" y="0" width="248" height="318" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0004" x="248" y="0" width="248" height="318" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0005" x="0" y="318" width="246" height="317" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0006" x="246" y="318" width="246" height="317" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0007" x="246" y="318" width="246" height="317" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0008" x="0" y="318" width="246" height="317" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0009" x="496" y="0" width="248" height="318" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0010" x="0" y="0" width="248" height="318" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0011" x="0" y="0" width="248" height="318" frameX="-22" frameY="-19" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0012" x="492" y="318" width="246" height="316" frameX="-25" frameY="-20" frameWidth="290" frameHeight="347" />
+<SubTexture name="gg right0013" x="492" y="318" width="246" height="316" frameX="-25" frameY="-20" frameWidth="290" frameHeight="347" />
+</TextureAtlas>

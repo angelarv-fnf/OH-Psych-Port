@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-63,
+				-89
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "maxangrydie dies"
+		},
+		{
+			"offsets": [
+				-63,
+				-89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": true,
+			"name": "maxangrydie deadconfirm"
+		},
+		{
+			"offsets": [
+				-63,
+				-89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "maxangrydie deadloop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maxangrydie",
+	"position": [
+		-100,
+		-20
+	],
+	"healthicon": "maxangry",
+	"flip_x": true,
+	"healthbar_colors": [
+		169,
+		36,
+		49
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

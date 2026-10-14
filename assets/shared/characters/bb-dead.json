@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"anim": "deathConfirm",
+			"name": "bb deadconfirm",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				12.0,
+				158.0
+			]
+		},
+		{
+			"anim": "deathLoop",
+			"name": "bb deadloop",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				12.0,
+				158.0
+			]
+		},
+		{
+			"anim": "firstDeath",
+			"name": "bb dies",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				12.0,
+				158.0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bb",
+	"position": [
+		20.0,
+		460.0
+	],
+	"healthicon": "bb",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-100.0,
+		0.0
+	],
+	"sing_duration": 4,
+	"scale": 1.0
+}

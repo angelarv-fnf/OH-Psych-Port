@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"anim": "idle",
+			"name": "skalushie idle",
+			"fps": 30,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singUP",
+			"name": "skalushie up",
+			"fps": 30,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singLEFT",
+			"name": "skalushie left",
+			"fps": 25,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "skalushie right",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "singDOWN",
+			"name": "skalushie down",
+			"fps": 30,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-43.0,
+				-97.0
+			]
+		},
+		{
+			"anim": "change",
+			"name": "skalushie change",
+			"fps": 40,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-32.0,
+				40.0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minimax/2",
+	"position": [
+		0.0,
+		220.0
+	],
+	"healthicon": "redboy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-120.0,
+		80.0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

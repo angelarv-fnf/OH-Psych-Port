@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-46,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				225,
+				380
+			],
+			"anim": "idle",
+			"fps": 22,
+			"name": "limerence idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				376
+			],
+			"anim": "singLEFT",
+			"fps": 22,
+			"name": "limerence left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				379
+			],
+			"anim": "singDOWN",
+			"fps": 22,
+			"name": "limerence down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				268,
+				379
+			],
+			"anim": "singUP",
+			"fps": 22,
+			"name": "limerence up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				373
+			],
+			"anim": "singRIGHT",
+			"fps": 22,
+			"name": "limerence right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/limerence",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "limerence",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		0,
+		149
+	],
+	"camera_position": [
+		-440,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

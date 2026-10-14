@@ -1,0 +1,98 @@
+<!DOCTYPE OH-Otherpedia>
+<info>
+    <!-- OTHERPEDIA ENTRIES (SPANISH) -->
+    <entry name="GB MAX" file="gbmax">
+        <attribute type="EATS" value="Pizza"/>
+        <attribute type="LOVES" value="Aventurear"/>
+        <attribute type="HATES" value="Agujas"/>
+        <attribute type="ORIGIN" value="EstudiOmega"/>
+        Este Max es el lider de una legión de heroes conocidos como Crazy Cross, 
+        Es alguien entusiasta y le agrada pasar aventuras por el mundo luchando 
+        contra nuevas criaturas o personas con poderes o habilidades avanzadas 
+        con tal de ser fuerte.
+    </entry>
+    <entry name="GB KAMI" file="gbkami">
+        <attribute type="EATS" value="Hamburguesas"/>
+        <attribute type="LOVES" value="Videojuegos"/>
+        <attribute type="HATES" value="Perder"/>
+        <attribute type="ORIGIN" value="Kambeenie"/>
+        Kami es una dama algo ruda contra sus oponentes, pero tiene un corazón noble. 
+        Es la mano derecha del lider del equipo Crazy Cross para mantener orden y 
+        protección para el equipo.
+    </entry>
+    <entry name="SORROW" file="him">
+        <attribute type="EATS" value="DESCONOCIDO"/>
+        <attribute type="LOVES" value="Perdición"/>
+        <attribute type="HATES" value="Felicidad"/>
+        <attribute type="ORIGIN" value="Jojogamer124"/>
+        El antagonista de esta historia, Una criatura fuera de lo normal con 
+        sed de condenación y destrucción. Una criatura creada con el objetivo 
+        de esparcir dolor, desesperación y destrucción por donde va.
+    </entry>
+    <entry name="MAX 7 MID" file="max7b">
+        <attribute type="EATS" value="Bebe agua"/>
+        <attribute type="LOVES" value="Nadie :c"/>
+        <attribute type="HATES" value="La Injusticia"/>
+        <attribute type="ORIGIN" value="EstudiOmega"/>
+        Max perdió las esperanzas y ahora lucha por su vida para evitar que Limerance 
+        lo mate o que La Policia del Sur lo arreste por encontrar a su amigo muerto 
+        en su casa, Max usa la bufanda de Ethan para poder recordarlo por siempre 
+        como su mejor y gran amigo.
+    </entry>
+    <entry name="LIMERANCE" file="limerance1a">
+        <attribute type="EATS" value="Personas"/>
+        <attribute type="LOVES" value="Solo a Max"/>
+        <attribute type="HATES" value="A Todos"/>
+        <attribute type="ORIGIN" value="EstudiOmega"/>
+        Rose vendió su alma a Death (Universo 7) pero sin leer las letras chiquitas, 
+        no solo vendio su alma... tambien su cuerpo como armadura para ser 
+        usado por una demonio llamada Limerance. Aun teniendo el cuerpo a 
+        voluntad del demonio... tiene la mente de Rose con deseos de estar 
+        junto con Max sin importar las consecuencias.
+    </entry>
+    <entry name="CAR FAMILY" file="cochefamiliar">
+        <attribute type="EATS" value="Pescado"/>
+        <attribute type="LOVES" value="Jugar contigo :3"/>
+        <attribute type="HATES" value="Nadie"/>
+        <attribute type="ORIGIN" value="Floombo"/>
+        Car y su familia compuesta por su esposa e hijo (Carla y Carlitos) 
+        viven felices siendo guias para el jugador en caso de problemas o acertijos. 
+        Car es alguien motivacional y servicial, Carla es amable y cordial con 
+        el jugador y Carlitos no habla mucho pero con su ternura inspira al 
+        jugador a seguir jugando.
+    </entry>
+    <entry name="MINIMAX" file="minimax" >
+        <attribute type="EATS" value="Pizza"/>
+        <attribute type="LOVES" value="Hacer amigos y las damas sexys, fuckit"/>
+        <attribute type="HATES" value="Perder amigos"/>
+        <attribute type="ORIGIN" value="EstudiOmega"/>
+        Esta version de Max no solo existe debido a una parodia para adultos con 
+        estilo TerminalMontage creado por EstudiOmega, sino para dar ternura y 
+        algo de felicidad a sus amigos. Un Max con superpoderes desempleado 
+        que vive estando con mujeres hermosas y salvando vidas para pagar 
+        su hogar y vida. (asusta eh?)
+    </entry>
+    <entry name="SKARLET PLUSHIE" file="skalushie">
+        <attribute type="EATS" value="bebe su pespi"/>
+        <attribute type="LOVES" value="Su yoyo"/>
+        <attribute type="HATES" value="Suciedad"/>
+        <attribute type="ORIGIN" value="RechiTV (distribuido por Makeships)"/>
+        Skarlet plushie se hizo realidad gracias a un mod de FNF llamado: 
+        Graffiti Groovin dirigido por RechiTV (yo amo tu arte bro :3). 
+        Es la compañia fiel de Mini Max, cada vez que Max se siente triste, 
+        Skarlet plushie llega para darle algo de inspiración. 
+        (una ternura de personaje :3)
+    </entry>
+    <entry name="BB AND GG" file="bbgg">
+        <attribute type="EATS" value="Las Kamburguesas"/>
+        <attribute type="LOVES" value="Ambos se aman :3"/>
+        <attribute type="HATES" value="Separarse"/>
+        <attribute type="ORIGIN" value="Friday Night Funkin'"/>
+        BB conocio a GG en una peluquería, estaba acompañada de su padre DD y 
+        su madre Mimi, Quedaron en salir a pasear hasta que el uno al otro se enamoró. 
+        Desde ese momento, juraron estar juntos por siempre, sin importar los problemas, 
+        en las buenas y en las malas. se enfrentaron a muchos contrincantes juntos, 
+        almuerzan juntos, se bañan juntos, etc. Viven juntos en una casita en la 
+        ciudad del sur al lado del departamento de Mini Max.
+    </entry>
+</info>

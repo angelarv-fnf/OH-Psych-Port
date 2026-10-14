@@ -1,0 +1,104 @@
+<!DOCTYPE codename-mod-credits>
+<!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
+<menu name="OH Credits" desc="Other Halloween Dev Team">
+	<!-- \/ You can also set the portrait shader as false as you can see below in the github one -->
+	<credit 
+		name="EstudiOmega" 
+		desc="Director, Compositor, Creador de Sprites, Artista y Artista promocional" 
+		icon="estudiomega"  
+		url="https://x.com/OmegaMax337"
+	/>
+	<credit 
+		name="CrucialMan" 
+		desc="Compositor de los Creditos y Pantallas de reglas" 
+		icon="crucialman" 
+		url="https://x.com/CrucialDude777"
+	/>
+	<credit 
+		name="ChessyMido"
+		desc="Voz de Lucia y de... GF?"
+		icon="chessymido"
+	/>
+	<github 
+		name="Jamextreme140"
+		user="Jamextreme140" 
+		customName="Jamextreme140" 
+		desc="Programador del mod" 
+		icon="jamextreme140"
+		size="100" 
+		portrait="false" 
+		color="#808080"
+	/>
+	<credit 
+		name="The RedBlack"
+		desc="Chartero de niveles"
+		icon="redblack"
+		url="https://x.com/RedBlack_Master"
+	/>
+	<credit 
+		name="MrVita"
+		desc="Diseñador de flechas"
+		icon="mrbota"
+	/>
+	<credit 
+		name="Jojogamer124"
+		desc="Voz del antagonista"
+		icon="jojogamer"
+		url="https://x.com/Jojogamer124"
+	/>
+	<credit 
+		name="SkyDimensions"
+		desc="Porteador de Android"
+		icon="skydim"
+	/>
+	<credit 
+		name="KAMBEENiE"
+		desc="Participación de OC"
+		icon="kambeenie"
+	/>
+	<credit 
+		name="Floombo"
+		desc="Creador de Car :3"
+		icon="garn47"
+	/>
+	<credit 
+		name="PANDORA"
+		desc="Voz de Limerance"
+		icon="pandora"
+	/>
+	<credit 
+		name="Byrox1648"
+		desc="Charter de RED"
+		icon="byrox"
+		url="https://x.com/Byrox1648"
+	/>
+	<credits 
+		name="KingFox"
+		desc="Voz en español del Antagonista"
+		icon="kingfox"
+		url="https://bsky.app/profile/voiceofkingf0x.bsky.social"
+	/>
+	<credits 
+		name="MAMON (KOWASE-P)"
+		desc="Voz en Español e Ingles de Coche Familiar"
+		icon="mamon"
+		url="https://x.com/mamonksnk"
+	/>
+	<credits 
+		name="StrangerBoi"
+		desc="Compositor del menú Extras"
+		icon="strangerboi"
+		url="https://strangerboe133.newgrounds.com/"
+	/>
+	<credits 
+		name="ElWaratas"
+		desc="Voz de Hank Buhonero"
+		icon="waratas"
+		url="https://x.com/El_waratas"
+	/>
+	<credits 
+		name="SmolzD"
+		desc="Artista Promocional"
+		icon="smolzd"
+	/>
+</menu>

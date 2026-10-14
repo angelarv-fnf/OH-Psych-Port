@@ -1,0 +1,106 @@
+<!DOCTYPE codename-mod-credits>
+<!-- TEMPLATE FOR CUSTOM CREDITS!!! -->
+<menu name="OH Credits" desc="Other Halloween Dev Team">
+	<!-- \/ You can also set the portrait shader as false as you can see below in the github one -->
+	<credit 
+		name="EstudiOmega" 
+		desc="Director, Composer, Spriter, Artist and Promo Artist" 
+		icon="estudiomega"  
+		url="https://x.com/OmegaMax337"
+	/>
+	<credit 
+		name="CrucialMan" 
+		desc="Credits and Rule Screen songs composer" 
+		icon="crucialman" 
+		url="https://x.com/CrucialDude777"
+	/>
+	<credit 
+		name="ChessyMido"
+		desc="GF? and Lucia VA"
+		icon="chessymido"
+	/>
+	<github 
+		name="Jamextreme140"
+		user="Jamextreme140" 
+		customName="Jamextreme140" 
+		desc="Mod programmer" 
+		icon="jamextreme140"
+		size="100" 
+		portrait="false" 
+		color="#808080"
+		url="https://twitter.com/jamextreme140"
+	/>
+	<credit 
+		name="The RedBlack"
+		desc="Level Charter"
+		icon="redblack"
+		url="https://x.com/RedBlack_Master"
+	/>
+	<credit 
+		name="MrVita"
+		desc="NoteSkin designer"
+		icon="mrbota"
+	/>
+	<credit 
+		name="Jojogamer124"
+		desc="Antagonist VA"
+		icon="jojogamer"
+		url="https://x.com/Jojogamer124"
+	/>
+	<credit 
+		name="SkyDimensions"
+		desc="Android Porter"
+		icon="skydim"
+	/>
+	<credit 
+		name="KAMBEENiE"
+		desc="OC Cameo"
+		icon="kambeenie"
+	/>
+	<credit 
+		name="Floombo"
+		desc="Car creator :3"
+		icon="garn47"
+		url="https://x.com/Garn47"
+	/>
+	<credit 
+		name="PANDORA"
+		desc="Limerance VA"
+		icon="pandora"
+	/>
+	<credit 
+		name="Byrox1648"
+		desc="RED Charter"
+		icon="byrox"
+		url="https://x.com/Byrox1648"
+	/>
+	<credits 
+		name="KingFox"
+		desc="Antagonist Spanish VA"
+		icon="kingfox"
+		url="https://bsky.app/profile/voiceofkingf0x.bsky.social"
+	/>
+	<credits 
+		name="MAMON (KOWASE-P)"
+		desc="Car family ENGLISH-SPANISH VA"
+		icon="mamon"
+		url="https://x.com/mamonksnk"
+	/>
+	<credits 
+		name="StrangerBoi"
+		desc="EXTRAS Menu Composer"
+		icon="strangerboi"
+		url="https://strangerboe133.newgrounds.com/"
+	/>
+	<credits 
+		name="ElWaratas"
+		desc="Hank Merchant VA"
+		icon="waratas"
+		url="https://x.com/El_waratas"
+	/>
+	<credits 
+		name="SmolzD"
+		desc="PromoPoster Artist"
+		icon="smolzd"
+	/>
+</menu>
